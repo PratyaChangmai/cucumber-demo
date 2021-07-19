@@ -6,4 +6,4 @@ Given Login Page
 When Enter valid name "Admin"
 And Enter valid password "admin123"
 And Click on Submit button
-Then I should see the username as "Welcome Paul"
+Then I should see the username as "Welcome Nishanth05"
